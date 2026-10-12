@@ -1,4 +1,4 @@
-# IPVS 2026 HPV16 bioinformatics workshop
+# IPVS 2026 bioinformatics workshop
 
 This hands-on workshop uses simulated HPV16 sequencing reads to explore read quality, mapping, genome coverage, consensus sequences, and variant calling against two references. No patient data are included.
 
