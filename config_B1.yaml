@@ -1,0 +1,4 @@
+# Same raw_reads folders as A1; only reference and output folder change.
+reference: "hpv_workshop_snakemake/reference/HPV16_B1_reference.fa"
+results_dir: "hpv_workshop_snakemake/results_B1"
+raw_reads_dir: "hpv_workshop_snakemake/raw_reads"
